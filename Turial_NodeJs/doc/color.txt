@@ -1,0 +1,2 @@
+=> Khởi tạo npm install colors (nếu riêng "npm install colors --save-dev")
+=> require("colors");

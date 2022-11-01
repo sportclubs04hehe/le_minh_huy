@@ -1,0 +1,4 @@
+push => Thêm 1 hoặc nhiều phần tử và cuối mảng và trả về 1 độ dài mới.
+split () => Hàm chuỗi, chia chuỗi con, trả về dạng mảng. 
+shift()=> Loại bỏ phần tử đầu tiên trả về phần tử bị loại bỏ.
+join()=> Hàm mảng trả về chuỗi của mảng.

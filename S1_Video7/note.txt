@@ -1,0 +1,3 @@
+parse()=> return key:value.
+exists() => check tồn tại path.
+pathname()=> in module url , sử dụng để lấy và đặt phần tên đường dẫn của URL.

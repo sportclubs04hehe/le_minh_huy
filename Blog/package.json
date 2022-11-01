@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "morgan": "file:../../AppData/Roaming/npm/node_modules/morgan"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tutorial_nodejs",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "printf, more learning"
+  },
+  "author": "W3School",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.4.0"
+  }
+}
